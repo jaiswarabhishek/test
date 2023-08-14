@@ -1,6 +1,2 @@
-{{#user}}
-Name: Abhishek Jaiswar
-Skills: HTML,CSS,JS,React,Node,Express,MongoDB
-Email: aj958601@gmail.com
-{{/user}}
+
 
